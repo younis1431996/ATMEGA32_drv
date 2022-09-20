@@ -15,8 +15,8 @@
     a.10. UART/USART.
     a.11. SPI.
     a.12. I2C.
-          
-   b. Peripherals Interface.
+    
+## b. Peripherals Interface.
     b.1.  LED.
     b.2.  Push Button.
     b.3.  LED Matrix.
