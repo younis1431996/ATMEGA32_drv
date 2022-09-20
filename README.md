@@ -39,7 +39,7 @@
 3. Simulator: Proteus 8 Professional
 -----------------------------------------------------------------------------------
 ## Developer:
-    *Mahmoud Mohamed Youness
-    *Communication Engineer, Wireless Embedded Systems Software Engineer, RF Solutions.
-    *Giza, Egypt
-    *younis1431996@gmail.com
+    Mahmoud Mohamed Youness
+    Communication Engineer, Wireless Embedded Systems Software Engineer, RF Solutions.
+    Giza, Egypt
+    younis1431996@gmail.com
