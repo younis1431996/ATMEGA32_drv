@@ -33,13 +33,13 @@
     b.14. Generic SPI Protocole for ATMEGA32 devices or other compatibles.
     b.15. Generic I2C Protocole for ATMEGA32 devices or other compatibles.
 -----------------------------------------------------------------------------------
-# Tools.
+## Tools.
 1. IDE: Eclipse C/C++
 2. Compiler: WinAVR-20100110
 3. Simulator: Proteus 8 Professional
 -----------------------------------------------------------------------------------
-# Developer:
- .Mahmoud Mohamed Youness
- .Communication Engineer, Wireless Embedded Systems Software Engineer, RF Solutions.
- .Giza, Egypt
- .younis1431996@gmail.com
+## Developer:
+    *Mahmoud Mohamed Youness
+    *Communication Engineer, Wireless Embedded Systems Software Engineer, RF Solutions.
+    *Giza, Egypt
+    *younis1431996@gmail.com
