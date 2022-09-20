@@ -1,6 +1,6 @@
 # ATMEGA32_drv.
 ## This repository contains all of the drivers for the ATMEGA32 peripherals MCU.
------------------------------------------------------------------------------------
+
 # Contents.
 ## a. MCU Drivers.
     a.1.  GPIO Digital Read, and Write.
