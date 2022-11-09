@@ -40,6 +40,5 @@
 -----------------------------------------------------------------------------------
 ## Developer:
     Mahmoud Mohamed Youness
-    Communication Engineer, Wireless Embedded Systems Software Engineer, RF Solutions.
-    Giza, Egypt
-    younis1431996@gmail.com
+    Communication Engineer, Wireless Embedded Systems Software Engineer, Smart Meters, RF Solutions.
+    EL-Sewedy Electrometer Group, Giza, Egypt
